@@ -23,7 +23,7 @@ Aggregating data by one or more columns.
 ### Window Functions
 Examples using `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`, and windowed `SUM()`.
 
-![Window Functions](screenshots/window-functions.png)
+![Window Functions](Window_functions.png)
 
 ---
 
